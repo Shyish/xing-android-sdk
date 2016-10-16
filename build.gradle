@@ -64,6 +64,9 @@ allprojects {
               // ReactiveX
               rxjava                  : 'io.reactivex:rxjava:1.2.0',
 
+              // Other utils
+              threeTenApb             : 'com.jakewharton.threetenabp:threetenabp:1.0.4',
+
               // Test
               junit                   : 'junit:junit:4.12',
               assertj                 : 'org.assertj:assertj-core:1.7.0',

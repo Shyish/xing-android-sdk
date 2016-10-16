@@ -43,6 +43,7 @@ dependencies {
     compile libraries.okio
     compile libraries.okhttp
     compile libraries.moshi
+    compile libraries.threeTenApb
 
     testCompile libraries.mockWebServer
     testCompile libraries.junit
